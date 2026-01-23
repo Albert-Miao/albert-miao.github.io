@@ -1,21 +1,23 @@
-project:
-  type: website
-
-website:
-  title: "albert-miao.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: cosmo
     toc: true
 
+project:
+  type: website
+  output-dir: docs
 
+website:
+  title: "My Academic Website"
+  navbar:
+    left:
+      - text: Blog
+        href: blog/
+      - text: Papers
+        href: papers/
+      - text: Projects
+        href: projects/
+    right:
+      - icon: github
+        href: https://github.com/YOUR_USERNAME
 
