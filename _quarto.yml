@@ -1,6 +1,7 @@
 format:
   html:
-    theme: cosmo
+    theme: minty 
+    # minty, slate, yeti
     toc: true
 
 project:
@@ -8,9 +9,12 @@ project:
   output-dir: docs
 
 website:
-  title: "My Academic Website"
+  title: "Albert Miao"
   navbar:
+    search: false
     left:
+      - text: About
+        href: about/
       - text: Blog
         href: blog/
       - text: Papers

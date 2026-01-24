@@ -1,7 +1,5 @@
 ---
-title: "albert-miao.github.io"
+title: "Homepage"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm tryin it out! Let's go!
