@@ -1,0 +1,27 @@
+---
+title: "Albert Miao"
+about:
+  template: solana
+  image: IMG_20230528_095928_DRO.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Albert-Miao
+  
+toc: false
+---
+
+Albert Miao is a PhD Student at the University of Cambridge. He's studying AI interpretability through the lens of feature decomposition and learning dynamics. 
+
+He's doing his best.
+
+### University of Cambridge  
+*Oct 2024 - Current*  
+PhD in Computer Science
+
+### University of California, San Diego
+*Sept 2019 - March 2024*  
+B.S. in Data Science, B.A. in Music  
+Minors in Philosophy and Mathematics
+
+

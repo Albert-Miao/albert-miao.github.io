@@ -1,0 +1,8 @@
+/* Override theme fonts globally */
+body {
+    font-family: Georgia, serif;   /* main text */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif;   /* headings */
+}

@@ -2,4 +2,4 @@
 title: "Homepage"
 ---
 
-I'm tryin it out! Let's go!
+Code and encoded data for "Features Emerge as Discrete States" is currently being cleaned up. It should be ready by March 10th.

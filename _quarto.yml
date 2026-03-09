@@ -1,8 +1,8 @@
 format:
   html:
-    theme: minty 
-    # minty, slate, yeti
-    toc: true
+    theme: minty
+    toc: false
+    css: assets/css/style.css
 
 project:
   type: website
@@ -12,16 +12,15 @@ website:
   title: "Albert Miao"
   navbar:
     search: false
-    left:
-      - text: About
-        href: about/
-      - text: Blog
-        href: blog/
-      - text: Papers
-        href: papers/
-      - text: Projects
-        href: projects/
-    right:
-      - icon: github
-        href: https://github.com/YOUR_USERNAME
-
+    # left:
+    #   - text: About
+    #     href: about/
+    #   - text: Blog
+    #     href: blog/
+    #   - text: Papers
+    #     href: papers/
+    #   - text: Projects
+    #     href: projects/
+    # right:
+    #   - icon: github
+    #     href: https://github.com/YOUR_USERNAME
